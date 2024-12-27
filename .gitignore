@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/StudentManagementSystemApp/FileContentIndex/08e0b399-7d9d-4f70-bcab-6eecfa84568b.vsidx
+*.vsidx

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\AcademicianList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\AcademicianRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Note.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\StudentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\StudentRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
