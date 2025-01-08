@@ -6,6 +6,7 @@ namespace StudentManagementSystemApp.Services
     public class LoginService
     {
         private readonly LoginRepository _loginRepository;
+        private int id;
 
         public LoginService(LoginRepository loginRepository)
         {
@@ -14,15 +15,15 @@ namespace StudentManagementSystemApp.Services
 
         public bool AuthenticateUser(string username, string password)
         {
-            //var user = _loginRepository.GetUserByIdAndPassword(id, password);
-            //return user != null;
+            var user = _loginRepository.GetUserByIdAndPassword(id, password);
+            return user != null;
             return true;
         }
 
-        public void RegisterUser(string id, string password)
+        public void RegisterUser(int id, string password)
         {
-            //var user = new Login { Id = id, Password = password };
-            //_loginRepository.AddUser(user);
+            var user = new Login { Id = id, Password = password };
+            _loginRepository.AddUser(user);
         }
     }
 }

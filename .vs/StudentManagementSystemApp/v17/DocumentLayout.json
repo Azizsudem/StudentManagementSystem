@@ -3,8 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|c:\\users\\azizs\\onedrive\\masa\u00FCst\u00FC\\studentmanagementsystem\\view\\academicianregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|solutionrelative:view\\academicianregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|c:\\users\\azizs\\onedrive\\masa\u00FCst\u00FC\\studentmanagementsystem\\view\\studentregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|solutionrelative:view\\studentregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|c:\\users\\azizs\\onedrive\\masa\u00FCst\u00FC\\studentmanagementsystem\\services\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|solutionrelative:services\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|c:\\users\\azizs\\onedrive\\masa\u00FCst\u00FC\\studentmanagementsystem\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|c:\\users\\azizs\\onedrive\\masa\u00FCst\u00FC\\studentmanagementsystem\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|solutionrelative:view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|solutionrelative:view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|c:\\users\\azizs\\onedrive\\masa\u00FCst\u00FC\\studentmanagementsystem\\view\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|solutionrelative:view\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|c:\\users\\azizs\\onedrive\\masa\u00FCst\u00FC\\studentmanagementsystem\\view\\academicianregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|solutionrelative:view\\academicianregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|c:\\users\\azizs\\onedrive\\masa\u00FCst\u00FC\\studentmanagementsystem\\view\\academicianlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|solutionrelative:view\\academicianlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|c:\\users\\azizs\\onedrive\\masa\u00FCst\u00FC\\studentmanagementsystem\\view\\academicianlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|solutionrelative:view\\academicianlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|c:\\users\\azizs\\onedrive\\masa\u00FCst\u00FC\\studentmanagementsystem\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\view\\studentregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|solutionrelative:view\\studentregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|c:\\users\\azizs\\onedrive\\masa\u00FCst\u00FC\\studentmanagementsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|c:\\users\\azizs\\onedrive\\masa\u00FCst\u00FC\\studentmanagementsystem\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|c:\\users\\azizs\\onedrive\\masa\u00FCst\u00FC\\studentmanagementsystem\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6CCDA7E1-EED7-4BBE-B917-0F68ECF5FC5F}|StudentManagementSystemApp.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,13 +98,186 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\View\\StudentList.cs",
+              "RelativeDocumentMoniker": "View\\StudentList.cs",
+              "ToolTip": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\View\\StudentList.cs [Design]",
+              "RelativeToolTip": "View\\StudentList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T09:16:07.407Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AcademicianRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\View\\AcademicianRegistration.cs",
+              "RelativeDocumentMoniker": "View\\AcademicianRegistration.cs",
+              "ToolTip": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\View\\AcademicianRegistration.cs",
+              "RelativeToolTip": "View\\AcademicianRegistration.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T09:15:51.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AcademicianRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\View\\AcademicianRegistration.cs",
+              "RelativeDocumentMoniker": "View\\AcademicianRegistration.cs",
+              "ToolTip": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\View\\AcademicianRegistration.cs [Design]",
+              "RelativeToolTip": "View\\AcademicianRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T09:15:48.921Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AcademicianList.cs",
+              "DocumentMoniker": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\View\\AcademicianList.cs",
+              "RelativeDocumentMoniker": "View\\AcademicianList.cs",
+              "ToolTip": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\View\\AcademicianList.cs",
+              "RelativeToolTip": "View\\AcademicianList.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T09:15:39.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AcademicianList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\View\\AcademicianList.cs",
+              "RelativeDocumentMoniker": "View\\AcademicianList.cs",
+              "ToolTip": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\View\\AcademicianList.cs [Design]",
+              "RelativeToolTip": "View\\AcademicianList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T09:15:37.998Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T09:12:54.103Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\View\\StudentRegistration.cs",
+              "RelativeDocumentMoniker": "View\\StudentRegistration.cs",
+              "ToolTip": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\View\\StudentRegistration.cs [Design]",
+              "RelativeToolTip": "View\\StudentRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:49:09.877Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:45:28.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:42:23.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\View\\StudentRegistration.cs",
+              "RelativeDocumentMoniker": "View\\StudentRegistration.cs",
+              "ToolTip": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\View\\StudentRegistration.cs",
+              "RelativeToolTip": "View\\StudentRegistration.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAMwBQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:22:55.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\View\\Login.cs",
+              "RelativeDocumentMoniker": "View\\Login.cs",
+              "ToolTip": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\View\\Login.cs",
+              "RelativeToolTip": "View\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:22:50.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\View\\Login.cs",
+              "RelativeDocumentMoniker": "View\\Login.cs",
+              "ToolTip": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\View\\Login.cs [Design]",
+              "RelativeToolTip": "View\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:37:44.949Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-27T13:37:43.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\Login.cs",
+              "ToolTip": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\Models\\Login.cs",
+              "RelativeToolTip": "Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:10:43.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\Services\\Login.cs",
               "RelativeDocumentMoniker": "Services\\Login.cs",
               "ToolTip": "C:\\Users\\azizs\\OneDrive\\Masa\u00FCst\u00FC\\StudentManagementSystem\\Services\\Login.cs",
               "RelativeToolTip": "Services\\Login.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T11:45:45.247Z",
               "EditorCaption": ""
